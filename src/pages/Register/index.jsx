@@ -32,7 +32,7 @@ const Register = () => {
     <div className="min-h-screen flex items-center justify-center bg-gray-100 p-4">
       <div className="w-full max-w-lg bg-white p-8 rounded-lg shadow-lg">
         <h2 className="text-2xl font-semibold text-center text-gray-800 mb-6">
-          Register a Nominee for the Award
+          Register a Nominee for the Ceremony Award
         </h2>
         <form onSubmit={handleSubmit}>
           <div className="mb-4">
