@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 
 const Register = () => {
+
   // Local state for form data
   const [formData, setFormData] = useState({
     nomineeName: '',
