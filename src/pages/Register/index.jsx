@@ -19,7 +19,7 @@ const Register = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
     // Logic to handle form submission (e.g., API call or state update)
-    console.log('Nominee Registered:', formData);
+    console.log('Nominee Register:', formData);
     // Reset form after submission
     setFormData({
       nomineeName: '',
